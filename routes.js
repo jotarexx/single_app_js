@@ -1,5 +1,4 @@
 
-// declaramos un array donde declaramos nuestras 3 rutas
 
 const routes = [
   {
