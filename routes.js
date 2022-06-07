@@ -1,5 +1,4 @@
 
-
 const routes = [
   {
     path:'/', // valor que consultaremos (home)
