@@ -9,6 +9,7 @@ const routes = [
     template: '<h1>Contacto</h1>'
   },
   {
+    
     path:'about',
     template: '<h1>About Me</h1>'
   },
